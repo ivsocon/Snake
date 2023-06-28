@@ -3,7 +3,7 @@ import { randomGridPosition } from "./grid.js"
 
 
 let food = getRandomFoodPosition()
-const EXPANSION_RATE = 1
+const EXPANSION_RATE = 2
 
 
  export function update() {

@@ -13,7 +13,7 @@ function main(currentTime) {
 if(gameOver){
 
     if(confirm( "You lose... Loser :)")){
-        window.location = '/'
+        window.location = './index.html'
     }
     return
     
